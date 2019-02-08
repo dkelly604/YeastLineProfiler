@@ -16,6 +16,8 @@ INSTALLATION
 
 6. Place YeastLineProfiler_.jar into the plugins directory of your ImageJ installation, a plugin called Dots Lines should appear in the Plugins drop down menu on ImageJ.
 
+7. YeastLineProfiler.java is the editable code for the plugin should improvements or changes be required.
+
 USAGE
 
 1. You will be prompted to Open DV Images. The plugin was written for 2 channel timelapse deltavision images acquired Green channel then Red Channel. It will probably work on non timelapse images but it will cause problems if the channel order is reversed.
