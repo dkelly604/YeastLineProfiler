@@ -4,11 +4,11 @@ ImageJ plugin to analyse fluorescent dots in timelapse images from a Deltavision
 
 INSTALLATION
 
-1.Ensure that the ImageJ version is at least 1.5 and the installation has Java 1.8.0_60 (64bit) or higher installed. If not download the latest version of ImageJ bundled with Java and install it.
+1. Ensure that the ImageJ version is at least 1.5 and the installation has Java 1.8.0_60 (64bit) or higher installed. If not download the latest version of ImageJ bundled with Java and install it.
 
 2. The versions can be checked by opening ImageJ and clicking Help then About ImageJ.
 
-3.Download the latest copy of Bio-Formats into the ImageJ plugin directory.
+3. Download the latest copy of Bio-Formats into the ImageJ plugin directory.
 
 4. Create a directory in the C: drive called Temp (case sensitive)
 
